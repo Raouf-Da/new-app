@@ -1,0 +1,14 @@
+streamlit
+pypsa
+pandas
+numpy
+geopandas
+shapely
+plotly
+xarray
+netcdf4
+scipy
+tables
+pyyaml
+folium
+streamlit-folium
